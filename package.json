@@ -21,8 +21,6 @@
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
-    "@types/react-markdown": "^8.0.5",
-    "@types/remark-gfm": "^3.0.3",
     "typescript": "^5"
   },
   "devDependencies": {
